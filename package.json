@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/murtazasultani/tailwind-dark/issues"
   },
-  "homepage": "https://github.com/murtazasultani/tailwind-dark#readme"
+  "homepage": "https://github.com/murtazasultani/tailwind-dark#readme",
+  "dependencies": {
+    "postcss-selector-parser": "^6.0.4"
+    
+  },
+  "devDependencies": {
+    "tailwindcss": "^1.9.6"
+  }
 }
