@@ -58,7 +58,7 @@ This plugin generates the following utilities:
     </div>
 </div>
 ```
-<img src="./illustration/dark-mode.png" width="100%">
+<img src="./illustration/default-mode.png" width="100%">
 
 To active the dark mode use the `theme-dark` on the parent element of your component.
 
@@ -74,5 +74,5 @@ To active the dark mode use the `theme-dark` on the parent element of your compo
     </div>
 </div>
 ```
-<img src="./illustration/default-mode.png" width="100%">
+<img src="./illustration/dark-mode.png" width="100%">
 
