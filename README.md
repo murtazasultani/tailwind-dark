@@ -45,6 +45,23 @@ This plugin generates the following utilities:
 ```
 
 ## Example
+
+```html
+<div>
+    <div class="grid grid-cols-2 gap-10">
+        <div class="h-60 bg-gray-100 dark:bg-gray-900">
+
+        </div>
+        <div class="h-60 bg-gray-900 dark:bg-gray-100">
+
+        </div>
+    </div>
+</div>
+```
+<img src="./illustration/dark-mode.png" width="100%">
+
+To active the dark mode use the `theme-dark` on the parent element of your component.
+
 ```html
 <div class="theme-dark">
     <div class="grid grid-cols-2 gap-10">
@@ -57,4 +74,5 @@ This plugin generates the following utilities:
     </div>
 </div>
 ```
+<img src="./illustration/default-mode.png" width="100%">
 
