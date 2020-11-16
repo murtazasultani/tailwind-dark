@@ -26,3 +26,20 @@ variants: {
 },
 ```
 
+This plugin generates the following utilities:
+
+```css
+.theme-dark .dark\:bg-white {
+  --bg-opacity: 1;
+  background-color: #ffffff;
+  background-color: rgba(255, 255, 255, var(--bg-opacity));
+}
+
+.theme-dark .dark\:bg-black {
+  --bg-opacity: 1;
+  background-color: #000000;
+  background-color: rgba(0, 0, 0, var(--bg-opacity));
+}
+...
+```
+
