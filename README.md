@@ -44,3 +44,17 @@ This plugin generates the following utilities:
 ...
 ```
 
+## Example
+```html
+<div class="theme-dark">
+    <div class="grid grid-cols-2 gap-10">
+        <div class="h-60 bg-gray-100 dark:bg-gray-900">
+
+        </div>
+        <div class="h-60 bg-gray-900 dark:bg-gray-100">
+
+        </div>
+    </div>
+</div>
+```
+
