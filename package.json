@@ -1,0 +1,19 @@
+{
+  "name": "tailwind-dark",
+  "version": "1.0.0",
+  "description": "Tailwind CSS plugin to generate dark variants.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/murtazasultani/tailwind-dark.git"
+  },
+  "author": "Murtaza Sultani <https://twitter.com/amurtazasultani>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/murtazasultani/tailwind-dark/issues"
+  },
+  "homepage": "https://github.com/murtazasultani/tailwind-dark#readme"
+}
