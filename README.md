@@ -4,7 +4,7 @@ Tailwind CSS plugin to generate dark variant.
 ## Installation
 
 ```bash
-npm install tailwind-dark
+npm install tailwind-dark --save-dev
 ```
 
 ## usage
@@ -17,8 +17,8 @@ plugins: [
 
 ## Note
 By default the `dark` variant is not enabled to none of the tailwindcss utilities.
-To use the `dark` variant add it at the end of any untility you want to use it with.
-You can toogle dark using the class `theme-dark` at the most parent element of your component
+To use the `dark` variant add it at the end of any utility you want to use it with.
+You can toggle dark using the class `theme-dark` at the most parent element of your component
 
 ```js
 variants: {
